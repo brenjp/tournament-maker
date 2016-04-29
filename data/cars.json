@@ -1,0 +1,17 @@
+{
+  "name": "Cars Forza 6",
+  "description": "This is a database of cars is Forza 6",
+  "cars": {
+    "Make": [
+      {"Ford": [
+        {"Model": ["Focus", "GT", "Mustang"]}
+      ]},
+      {"BMW": [
+        {"Model": ["5 Series", "3 Series", "2 Series"]}
+      ]},
+      {"Lotus": [
+        {"Model": ["Elise", "Esprise", "Exsige"]}
+      ]}
+    ]
+  }
+}
